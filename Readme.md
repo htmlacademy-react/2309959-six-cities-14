@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Андрей Кайманов](https://up.htmlacademy.ru/react/14/user/2309959).
-* Наставник: `Неизвестно`.
+* Наставник: [Глеб Клецков](https://htmlacademy.ru/profile/id1487865).
 
 ---
 
@@ -47,3 +47,5 @@ git clone SSH-адрес_вашего_форка
 <a href="https://htmlacademy.ru/intensive/react"><img align="left" width="50" height="50" title="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/react/logo-for-github.png"></a>
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[React. Разработка сложных клиентских приложений](https://htmlacademy.ru/intensive/react)» от [HTML Academy](https://htmlacademy.ru).
+
+Запустил проект
