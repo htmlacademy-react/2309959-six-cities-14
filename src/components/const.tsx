@@ -1,5 +1,5 @@
 const Settings = {
-    PlacesCount: 6
+    PlacesCount: 12
   } as const;
   
   export{Settings};

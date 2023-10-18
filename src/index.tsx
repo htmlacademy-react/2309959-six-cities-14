@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Main from './components/main';
+import Main from './pages/main';
 import { Settings } from './components/const';
 
 const root = ReactDOM.createRoot(
