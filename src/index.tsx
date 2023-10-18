@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Main from './pages/main';
+import App from './components/App';
 import { Settings } from './components/const';
 
 const root = ReactDOM.createRoot(
@@ -9,6 +9,6 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <Main placesCount={Settings.PlacesCount} />
+    <App placesCount={Settings.PlacesCount}/>
   </React.StrictMode>
 );
