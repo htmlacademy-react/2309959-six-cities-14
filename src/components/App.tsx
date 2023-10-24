@@ -1,4 +1,4 @@
-import Main from "../pages/main";
+import Main from '../pages/main';
 
 type AppPropsType = {
   placesCount: number;
